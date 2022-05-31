@@ -1,4 +1,2 @@
-# discordjs-template
-Discord.JS v13 Bot Template
-
+[![Forks][forks-shield]][forks-url]
 Botun aktif olması için `.env` kısmına tokeni yapıştırmanız yeterli.
