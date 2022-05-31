@@ -1,3 +1,6 @@
-[![Forks](https://img.shields.io/github/stars/redentdev/aoijs-template.svg?style=for-the-badge)](https://github.com/redentdev/aoijs-template)
-[![Stars](https://img.shields.io/github/forks/redentdev/aoijs-template.svg?style=for-the-badge)](https://github.com/redentdev/aoijs-template)<br>
+# Discord.JS v13
+
+### Kullanım
 Botun aktif olması için `.env` kısmına tokeni yapıştırmanız yeterli.
+### Bağlantılar 
+[![Discord](https://img.shields.io/discord/977952292538048562?color=5865F2&label=Discord&style=for-the-badge)](https://discord.gg/2fqm7329mj)
